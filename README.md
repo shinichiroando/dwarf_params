@@ -26,4 +26,5 @@ References
 ----------
 
 If you use the data products from this repository, please cite the following paper:
+
 [1] S. Ando, A. Geringer-Sameth, N. Hiroshima, S. Hoof, R. Trotta and M. G. Walker, "Structure formation models weaken limits on WIMP dark matter from dwarf spheroidal galaxies," Phys. Rev. D 102 (2020) no.6, 061302. doi:10.1103/PhysRevD.102.061302 [arXiv:2002.11956 [astro-ph.CO]].
