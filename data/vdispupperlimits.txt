@@ -1,0 +1,5 @@
+#Dwarf          mean [km/s]   stddev [km/s] (truncated Gaussian for vdisp)
+Grus_I         -4.65         6.28
+Segue_2         0.53         1.11
+Triangulum_II  -3.64         3.13
+Tucana_III     -0.62         0.93
