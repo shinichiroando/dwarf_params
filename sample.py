@@ -6,7 +6,7 @@ from obs_dwarf_properties import *
 ### Sample dwarf galaxy we consider
 dwarf = 'UMa_II'
 
-### Generate the parameters for Vpeak-14 galaxy formation model
+### Generate the parameters for V50-10.5 galaxy formation model
 rs,rhos,rt = dwarf_density_profile_MC(dwarf, galform='V50-10.5')
 
 ### Generate the parameters for log-unform prior case
